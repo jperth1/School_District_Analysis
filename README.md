@@ -101,7 +101,7 @@ Prior to replacing the ninth graders’ math and reading scores, Thomas High Sch
 
 ![PySchool_Challenge_Top_Schools_Original](/Resources/PySchool_Challenge_Top_Schools_Original.png)
 
-After replacing the ninth graders’ math and reading scores, Thomas High School’s ranking fell to the eighth position in the district, based on its overall passing percentage, 65.076%
+After replacing the ninth graders’ math and reading scores with "nan", Thomas High School’s ranking fell to the eighth position in the district, based on its overall passing percentage, 65.076%
 
 ![PySchool_Challenge_THS_Relative_Performance](/Resources/PySchool_Challenge_THS_Relative_Performance.png)
 
@@ -176,11 +176,14 @@ There was no effect on the scores and school type after eliminated the 9th grade
 
 # Summary
 
-After replacing the Thomas high school 9th grade math and reading scores with “nan”, and then eliminating the Thomas high school 9th grade math and reading scores, the school district analysis was significantly changed in four major ways
+After replacing the Thomas high school nineth-grade math and reading scores with “nan” the school district analysis was significantly changed in four major ways.
 
-First, the percentage of students at Thomas high school passing math fell significantly after the 9th grade math scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing math was approximately 93.272%. After replacing the nineth-grade math scores with “nan”, the percentage of students passing math fell to approximately 66.911%. This is a significant decrease of approximately 26.361%.
+First, the percentage of students at Thomas high school passing math fell significantly after the nineth-grade math scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing math was approximately 93.272%. After replacing the nineth-grade math scores with “nan”, the percentage of students passing math fell to approximately 66.911%. This is a significant decrease of approximately 26.361%.
 
-Second, the percentage of students at Thomas high school passing reading fell significantly after the 9th grade reading scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing reading was approximately 97.308%. After replacing the nineth-grade reading scores with “nan”, the percentage of students passing reading fell to approximately 69.663%. This is a significant decrease of approximately 27.645%.
+Second, the percentage of students at Thomas high school passing reading fell significantly after the nineth-grade reading scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing reading was approximately 97.308%. After replacing the nineth-grade reading scores with “nan”, the percentage of students passing reading fell to approximately 69.663%. This is a significant decrease of approximately 27.645%.
 
-Third, the overall percentage of students at Thomas high school passing both math and reading fell significantly. Originally, the percentage of students at Thomas high school passing both math and reading was approximately 90.948%. After replacing the nineth-grade math and reading scores with “nan”, the percentage of students passing both math and reading fell to approximately 65.076%. This is a significant decrease of approximately 25.875%.
+Third, the overall percentage of students at Thomas high school passing both math and reading fell significantly after the nineth-grade math and reading scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing both math and reading was approximately 90.948%. After replacing the nineth-grade math and reading scores with “nan”, the percentage of students passing both math and reading fell to approximately 65.076%. This is a significant decrease of approximately 25.875%.
+
+Finally, when nineth-grade scores at Thomas high school were replaced by "nan", Thomas high school's rank among all the schools in the district fell significantly. Originally, Thomas High School’s ranked second of the top five schools in the district, based on its overall passing percentage, 90.948%. After the nineth-grade math and reading scores were replaced with “nan” Thomas High School’s ranking fell to the eighth position in the district, based on its overall passing percentage, 65.076%.
+
 
