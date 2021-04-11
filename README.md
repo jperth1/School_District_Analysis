@@ -44,7 +44,7 @@ Replacing the math and reading scores with “nan” for the 9th grade cohort at
 
 ## District Level Affect
 
-The district summary was slightly affected after the reading and writing scores for 9th graders at Thomas High School were replace. Replacing those scores with “nan” resulted in the following effects on district level averages:
+The district summary was slightly affected after the math and reading scores for 9th graders at Thomas High School were replace. Replacing those scores with “nan” resulted in the following effects on district level averages:
 - The average math scores dropped by 1/10 of a percent, from 79.0 to 78.9
 - the average reading scores stays the same at 81.9
 - the percentage of students passing math dropped by 2/10 of a percent, from 75% to 74.8%
