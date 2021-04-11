@@ -111,7 +111,7 @@ After eliminating the nineth-grade math and reading scores, Thomas high school r
 
 
 
-### Math and Reading Scores by Grade Level
+## Math and Reading Scores by Grade Level
 
 Prior to replacing the ninth graders’ math and reading scores, the ninth grade at Thomas high school had an average math score of 83.6 and an average reading score of 83.7. 
 
@@ -174,4 +174,13 @@ There was no effect on the scores and school type after eliminated the 9th grade
 
 ![PySchool_Challenge_Performance_By_Type_Updated](/Resources/PySchool_Challenge_Performance_By_Type_Updated.png)
 
+# Summary
+
+After replacing the Thomas high school 9th grade math and reading scores with “nan”, and then eliminating the Thomas high school 9th grade math and reading scores, the school district analysis was significantly changed in four major ways
+
+First, the percentage of students at Thomas high school passing math fell significantly after the 9th grade math scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing math was approximately 93.272%. After replacing the nineth-grade math scores with “nan”, the percentage of students passing math fell to approximately 66.911%. This is a significant decrease of approximately 26.361%.
+
+Second, the percentage of students at Thomas high school passing reading fell significantly after the 9th grade reading scores were replaced with “nan”. Originally, the percentage of students at Thomas high school passing reading was approximately 97.308%. After replacing the nineth-grade reading scores with “nan”, the percentage of students passing reading fell to approximately 69.663%. This is a significant decrease of approximately 27.645%.
+
+Third, the overall percentage of students at Thomas high school passing both math and reading fell significantly. Originally, the percentage of students at Thomas high school passing both math and reading was approximately 90.948%. After replacing the nineth-grade math and reading scores with “nan”, the percentage of students passing both math and reading fell to approximately 65.076%. This is a significant decrease of approximately 25.875%.
 
