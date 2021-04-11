@@ -141,7 +141,7 @@ There was no effect on the scores and school spending per student after eliminat
 
 ### School Spending Per Student and Scores from Original Data
 
-![ PySchool_Challenge_Performance_By_Spending_Bins_Original](/Resources/ PySchool_Challenge_Performance_By_Spending_Bins_Original.png)
+![ PySchool_Challenge_Performance_By_Spending_Bins_Original](/Resources/PySchool_Challenge_Performance_By_Spending_Bins_Original.png)
 
 
 ### School Spending Per Student and Scores from Updated Data
