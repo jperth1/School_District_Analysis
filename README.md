@@ -9,27 +9,28 @@ Due to evidence of academic dishonesty, this report will provide a comparison of
 
 The analysis completed the following tasks on the original and updated data to provide the school board with performance trends on the district and school level:
 
--	A district summary based on the original and updated data comprising the following key metrics:
-o	Total number of students in the district
-o	Total number of schools in the district
-o	The total budget for the district
-o	The average math score for the district
-o	The average reading score for the district
-o	The percentage of students in the district passing math
-o	The percentage of students in the district passing reading
-o	The overall percentage of students in the district who passed math and reading
+A district summary based on the original and updated data comprising the following key metrics:
+
+-	Total number of students in the district
+-	Total number of schools in the district
+-	The total budget for the district
+-	The average math score for the district
+-	The average reading score for the district
+-	The percentage of students in the district passing math
+-	The percentage of students in the district passing reading
+-	The overall percentage of students in the district who passed math and reading
 
 -	A school summary based on the original and updated data comprising of the following key metrics:
-o	School name
-o	School type 
-o	Total number of students at the school
-o	The school’s total budget 
-o	The school’s per student budget
-o	The school’s average math score 
-o	The school’s average reading score
-o	The percentage of students at the school passing math
-o	The percentage of students at the school passing reading
-o	The overall percentage of students in the school passing math and reading
+-	School name
+-	School type 
+-	Total number of students at the school
+-	The school’s total budget 
+-	The school’s per student budget
+-	The school’s average math score 
+-	The school’s average reading score
+-	The percentage of students at the school passing math
+-	The percentage of students at the school passing reading
+-	The overall percentage of students in the school passing math and reading
 
 ## Resources
 
@@ -53,11 +54,11 @@ The district summary was slightly affected after the reading and writing scores 
 
 
 ### District Summary from Original Data
-![PySchool_Challenge_District_Summary_Original](/Resources/ PySchool_Challenge_District_Summary_Original.png)
+![PySchool_Challenge_District_Summary_Original](/Resources/PySchool_Challenge_District_Summary_Original.png)
 
 ### District Summary from Updated Data
 
-![PySchool_Challenge_District_Summary_Updated](/Resources/ PySchool_Challenge_District_Summary_Updated.png)
+![PySchool_Challenge_District_Summary_Updated](/Resources/PySchool_Challenge_District_Summary_Updated.png)
 
 
 
@@ -74,11 +75,11 @@ After replacing the math and reading scores with “nan” for the 9th grade at 
 
 ### School Summary from Original Data
 
-![PySchool_Challenge_School_Summary_Original](/Resources/ PySchool_Challenge_School_Summary_Original.png)
+![PySchool_Challenge_School_Summary_Original](/Resources/PySchool_Challenge_School_Summary_Original.png)
 
 ### School Summary After Replacing 9th Grade Scores at Thomas high school with “NaN” 
 
-![PySchool_Challenge_School_Summary__Nineth_Grade_Included_Updated](/Resources/ PySchool_Challenge_School_Summary__Nineth_Grade_Included_Updated.png)
+![PySchool_Challenge_School_Summary__Nineth_Grade_Included_Updated](/Resources/PySchool_Challenge_School_Summary__Nineth_Grade_Included_Updated.png)
 
 
 ### School Level Affect After Eliminating 9th Grade Scores at Thomas High School
@@ -91,23 +92,22 @@ The school summary was further reevaluated by eliminating the math and reading s
 -	The overall percentage of students at Thomas high school passing both math and reading became 90.630%
 -	Metrics for other district schools were not affected 
 
-![ PySchool_Challenge_THS_Summary_Updated_ninth_grade_removed](/Resources/ PySchool_Challenge_THS_Summary_Updated_ninth_grade_removed.png)
+![PySchool_Challenge_THS_Summary_Updated_ninth_grade_removed](/Resources/PySchool_Challenge_THS_Summary_Updated_ninth_grade_removed.png)
 
 
 ## Thomas High School’s Relative Performance 
 
 Prior to replacing the ninth graders’ math and reading scores, Thomas High School’s ranked second of the top five schools in the district, based on its overall passing percentage, 90.948%
 
-![PySchool_Challenge_Top_Schools_Original](/Resources/ PySchool_Challenge_Top_Schools_Original.png)
+![PySchool_Challenge_Top_Schools_Original](/Resources/PySchool_Challenge_Top_Schools_Original.png)
 
 After replacing the ninth graders’ math and reading scores, Thomas High School’s ranking fell to the eighth position in the district, based on its overall passing percentage, 65.076%
 
-![PySchool_Challenge_THS_Relative_Performance](/Resources/ PySchool_Challenge_THS_Relative_Performance.png)
+![PySchool_Challenge_THS_Relative_Performance](/Resources/PySchool_Challenge_THS_Relative_Performance.png)
 
 After eliminating the nineth-grade math and reading scores, Thomas high school returned to its original second place rank for schools in the district, based on its overall passing percentage, 90.630%
 
-
-![ PySchool_Challenge_Top_Schools_Update_Grade9_Removed](/Resources/ PySchool_Challenge_Top_Schools_Update_Grade9_Removed.png)
+![PySchool_Challenge_Top_Schools_Update_Grade9_Removed](/Resources/PySchool_Challenge_Top_Schools_Update_Grade9_Removed.png)
 
 
 
@@ -117,22 +117,22 @@ Prior to replacing the ninth graders’ math and reading scores, the ninth grade
 
 ### Average Math Scores by School and Grade Level from Original Data
 
-![PySchool_Challenge_Math_Scores_By_Grade_Original](/Resources/ PySchool_Challenge_Math_Scores_By_Grade_Original.png)
+![PySchool_Challenge_Math_Scores_By_Grade_Original](/Resources/PySchool_Challenge_Math_Scores_By_Grade_Original.png)
 
 ### Average Reading Scores by School and Grade Level from Original Data
 
-![PySchool_Challenge_Reading_Scores_By_Grade_Original](/Resources/ PySchool_Challenge_Reading_Scores_By_Grade_Original.png)
+![PySchool_Challenge_Reading_Scores_By_Grade_Original](/Resources/PySchool_Challenge_Reading_Scores_By_Grade_Original.png)
 
 
 After replacing the ninth-grade math and reading scores, the ninth grade at Thomas high school did not have an average math or reading scores, as each student’s score was replaced with “nan”, also known as “not a number”. The scores replacement among the ninth-grade students had no effect on score averages among 10th-12th graders at Thomas high school, nor on any other grade-level averages for schools in the district. 
 
 ### Average Math Scores by School and Grade Level from Updated Data
 
-![ PySchool_Challenge_Math_Score_By_Grade_Updated](/Resources/ PySchool_Challenge_Math_Score_By_Grade_Updated.png)
+![PySchool_Challenge_Math_Score_By_Grade_Updated](/Resources/PySchool_Challenge_Math_Score_By_Grade_Updated.png)
 
 ### Average Reading Scores by School and Grade Level from Updated Data
 
-![PySchool_Challenge_Reading_Scores_By_Grade_Updated](/Resources/ PySchool_Challenge_Reading_Scores_By_Grade_Updated.png)
+![PySchool_Challenge_Reading_Scores_By_Grade_Updated](/Resources/PySchool_Challenge_Reading_Scores_By_Grade_Updated.png)
 
 
 ## School Spending Per Student and Scores
@@ -146,7 +146,7 @@ There was no effect on the scores and school spending per student after eliminat
 
 ### School Spending Per Student and Scores from Updated Data
 
-![PySchool_Challenge_Performance_By_Spending_Bins_Updated](/Resources/ PySchool_Challenge_Performance_By_Spending_Bins_Updated.png)
+![PySchool_Challenge_Performance_By_Spending_Bins_Updated](/Resources/PySchool_Challenge_Performance_By_Spending_Bins_Updated.png)
 
 
 ## School Size and Scores 
@@ -154,12 +154,12 @@ There was no effect on the scores and school size after eliminated the 9th grade
 
 ### School Size and Scores from Original Data
 
-![PySchool_Challenge_Performance_By_Size_Bin_Original](/Resources/ PySchool_Challenge_Performance_By_Size_Bin_Original.png)
+![PySchool_Challenge_Performance_By_Size_Bin_Original](/Resources/PySchool_Challenge_Performance_By_Size_Bin_Original.png)
 
 
 ###School Size and Average Scores from Updated Data
 
-![PySchool_Challenge_Performance_By_Size_Bin_Updated](/Resources/ PySchool_Challenge_Performance_By_Size_Bin_Updated.png)
+![PySchool_Challenge_Performance_By_Size_Bin_Updated](/Resources/PySchool_Challenge_Performance_By_Size_Bin_Updated.png)
 
 
 ## School Type and Scores
@@ -168,10 +168,10 @@ There was no effect on the scores and school type after eliminated the 9th grade
 
 ### School Type and Average Scores from Original Data
 
-![ PySchool_Challenge_Performance_By_Type_Original](/Resources/ PySchool_Challenge_Performance_By_Type_Original.png)
+![ PySchool_Challenge_Performance_By_Type_Original](/Resources/PySchool_Challenge_Performance_By_Type_Original.png)
 
 ### School Type and Average Scores from Updated Data
 
-![PySchool_Challenge_Performance_By_Type_Updated](/Resources/ PySchool_Challenge_Performance_By_Type_Updated.png)
+![PySchool_Challenge_Performance_By_Type_Updated](/Resources/PySchool_Challenge_Performance_By_Type_Updated.png)
 
-![image](https://user-images.githubusercontent.com/80020390/114290020-4d4bc200-9a4a-11eb-95b2-9fc7f8b70b87.png)
+
