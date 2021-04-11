@@ -20,7 +20,7 @@ A district summary based on the original and updated data comprising the followi
 -	The percentage of students in the district passing reading
 -	The overall percentage of students in the district who passed math and reading
 
--	A school summary based on the original and updated data comprising of the following key metrics:
+A school summary based on the original and updated data comprising of the following key metrics:
 -	School name
 -	School type 
 -	Total number of students at the school
