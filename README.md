@@ -3,7 +3,10 @@
 
 # Overview of School District Analysis
 
-This analysis aims to present the school board with performance trends at the school and district level. This analysis uses standardize math and reading data test data to calculate the following key metrics: average math and reading scores, percentage of students passing math and reading, and the overall percentage of students passing both math and reading at the district and school level. The patterns and trends in this analysis are intended to help inform the school board in making decisions related to the school district budget allocation.
+This analysis presents high school performance trends at the school and district level. Data collected from standardized testing is used to calculate The following key metrics:
+-  Average math and reading scores
+-  Percentage of students passing math and reading
+-  Overall percentage of students passing both math and reading at the district and school level
 
 Due to evidence of academic dishonesty, this report will provide a comparison of an original analysis and two updated analysis that includes amendments to the data to take into consideration the evidence of academic dishonesty. The first updated analysis replaces the key metrics –reading and math scores—for the 9th grade cohort at Thomas High School with the value “NaN” (not a number). The second updated analysis eliminated the 9th grade math and reading scores from Thomas high school, and only evaluates key metrics from the 10th to 12th grade at Thomas high school. These amendments are an attempt to uphold state-testing standards. The data from all other schools in the district are left intact. 
 
